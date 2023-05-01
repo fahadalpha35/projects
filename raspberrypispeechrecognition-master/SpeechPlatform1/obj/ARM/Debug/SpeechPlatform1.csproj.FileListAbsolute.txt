@@ -1,0 +1,4 @@
+C:\Users\Fahad Ahmed\Downloads\New folder (2)\raspberrypispeechrecognition-master\SpeechPlatform1\obj\ARM\Debug\App.xaml
+C:\Users\Fahad Ahmed\Downloads\New folder (2)\raspberrypispeechrecognition-master\SpeechPlatform1\obj\ARM\Debug\SamMainPage.xaml
+C:\Users\Fahad Ahmed\Downloads\New folder (2)\raspberrypispeechrecognition-master\SpeechPlatform1\obj\ARM\Debug\App.xbf
+C:\Users\Fahad Ahmed\Downloads\New folder (2)\raspberrypispeechrecognition-master\SpeechPlatform1\obj\ARM\Debug\SamMainPage.xbf

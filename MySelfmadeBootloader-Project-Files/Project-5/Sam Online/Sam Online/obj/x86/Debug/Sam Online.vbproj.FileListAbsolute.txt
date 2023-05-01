@@ -1,0 +1,12 @@
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\bin\Debug\Sam Online.exe
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\bin\Debug\Sam Online.pdb
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\bin\Debug\Sam Online.xml
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\obj\x86\Debug\WindowsApplication1.Form1.resources
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\obj\x86\Debug\WindowsApplication1.Resources.resources
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\obj\x86\Debug\WindowsApplication1.Form2.resources
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\obj\x86\Debug\WindowsApplication1.Form3.resources
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\obj\x86\Debug\WindowsApplication1.Warning.resources
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\obj\x86\Debug\Sam Online.vbproj.GenerateResource.Cache
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\obj\x86\Debug\Sam Online.exe
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\obj\x86\Debug\Sam Online.xml
+S:\My Bootloader Project Files\Project-5\Sam Online\Sam Online\obj\x86\Debug\Sam Online.pdb

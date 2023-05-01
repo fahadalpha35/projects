@@ -1,0 +1,6 @@
+Mar 28, 2017 2:24:47 AM com.pytenlabs.instapk.helpers.LogHelper init
+INFO: Windows 10, 10.0, amd64, Android Studio AI-162.2228.14
+Mar 28, 2017 2:24:47 AM com.pytenlabs.instapk.ButtonActionHandler actionPerformed
+SEVERE: Invalid APK file. Please make sure file exists and/or path is correct.
+Mar 28, 2017 2:25:01 AM com.pytenlabs.instapk.ButtonActionHandler actionPerformed
+SEVERE: Invalid APK file. Please make sure file exists and/or path is correct.

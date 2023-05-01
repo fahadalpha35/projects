@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615949202608",
+    "project_id": "cub-chat-app",
+    "storage_bucket": "cub-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615949202608:android:93cfece4c0294a2335f775",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615949202608-68901h2ilpf129gj72oodsju5586425q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWnJghppwjSlmGnb1MYP_tBt5I_RacQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615949202608-68901h2ilpf129gj72oodsju5586425q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

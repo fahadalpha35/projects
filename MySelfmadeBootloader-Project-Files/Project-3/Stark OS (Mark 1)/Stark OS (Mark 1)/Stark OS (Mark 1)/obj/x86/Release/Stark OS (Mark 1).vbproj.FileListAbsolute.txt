@@ -1,0 +1,41 @@
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.About.resources
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Form3.resources
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Form4.resources
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Internet.resources
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Warning.resources
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Stark OS (Mark 1).vbproj.GenerateResource.Cache
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.exe.manifest
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.application
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.exe
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.pdb
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.xml
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.exe.manifest
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.application
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.exe
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.xml
+C:\Users\sivadas\Documents\Visual Studio 2010\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.pdb
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.exe
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.xml
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.pdb
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.exe.manifest
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.application
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.exe
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.pdb
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Release\Windows 8.1 Prototype.xml
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.About.resources
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Form3.resources
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Form4.resources
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Internet.resources
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\WindowsApplication1.Warning.resources
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Stark OS (Mark 1).vbproj.GenerateResource.Cache
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.exe.manifest
+C:\Users\Stark\Documents\Visual Studio 2012\Projects\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.application
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.exe
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.xml
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Release\Windows 8.1 Prototype.pdb

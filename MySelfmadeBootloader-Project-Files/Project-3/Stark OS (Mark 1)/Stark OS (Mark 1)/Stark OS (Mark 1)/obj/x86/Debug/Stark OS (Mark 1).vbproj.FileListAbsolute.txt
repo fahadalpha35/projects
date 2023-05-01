@@ -1,0 +1,19 @@
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Debug\Windows 8.1 Prototype.exe.manifest
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Debug\Windows 8.1 Prototype.application
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Debug\Windows 8.1 Prototype.exe
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Debug\Windows 8.1 Prototype.pdb
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\bin\Debug\Windows 8.1 Prototype.xml
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\WindowsApplication1.About.resources
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\WindowsApplication1.Form1.resources
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\WindowsApplication1.Form2.resources
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\WindowsApplication1.Form3.resources
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\WindowsApplication1.Form4.resources
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\WindowsApplication1.Internet.resources
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\WindowsApplication1.Resources.resources
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\WindowsApplication1.Warning.resources
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\Stark OS (Mark 1).vbproj.GenerateResource.Cache
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\Windows 8.1 Prototype.exe.manifest
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\Windows 8.1 Prototype.application
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\Windows 8.1 Prototype.exe
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\Windows 8.1 Prototype.xml
+S:\My Bootloader Project Files\Project-3\Stark OS (Mark 1)\Stark OS (Mark 1)\Stark OS (Mark 1)\obj\x86\Debug\Windows 8.1 Prototype.pdb

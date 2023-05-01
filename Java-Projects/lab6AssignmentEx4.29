@@ -1,0 +1,23 @@
+/**
+ * Lab # 6 –Scanner input, DecimalFormat output, selection control structure, 
+ * repetition control structure (counter-controlled/sentinel controlled).
+ * References: Chapter 4 and Chapter 5
+ */
+
+package Basic Programming Concepts Assignment; // program executes class file into Basic Programming Concepts Assignment folder.
+
+import java.text.DecimalFormat; // program uses class text a DecimalFormat
+import java.util.Scanner; // program uses class Scanner
+
+public class lab6AssignmentEx4.29
+{
+
+    // main method begins execution of java application
+    public static void main (String [ ] args ) 
+    {
+       
+       
+       
+    } // end method main
+    
+} // end class lab6AssignmentEx4.29
