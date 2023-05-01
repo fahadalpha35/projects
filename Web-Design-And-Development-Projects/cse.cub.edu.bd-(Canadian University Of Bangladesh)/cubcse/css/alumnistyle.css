@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: "TrebuchetMS", trebuchet, sans-serif;
+}
+
+h4 {
+  font-size: 38px;
+  line-height: 38px;
+  text-align: center;
+}
+
+h6 {
+  font-size: 23px;
+  line-height: 26px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+  text-align: left;
+}
+
+.multi-column-carousel {
+  width: 100%;
+  position: relative;
+}
+.multi-column-carousel .pagination-container {
+  left: 50%;
+  z-index: 1;
+  bottom: -18px;
+  position: absolute;
+  transform: translateX(-50%);
+
+}
+
+
+.multi-column-carousel .pagination-container:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+.multi-column-carousel .pagination-container .indicator {
+  float: left;
+  width: 10px;
+  height: 10px;
+  margin: 0 4px;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: 0.3s border;
+  border: 1px solid black;
+}
+.multi-column-carousel .pagination-container .indicator:first-child {
+  margin-left: 0;
+}
+.multi-column-carousel .pagination-container .indicator:last-child {
+  margin-right: 0;
+}
+.multi-column-carousel .pagination-container .indicator.active {
+  border: 5px solid black;
+}
+.multi-column-carousel .viewport {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.multi-column-carousel .viewport .multi-column-button {
+  top: 50%;
+  z-index: 1;
+  width: 34px;
+  height: 34px;
+  opacity: 0.9;
+  cursor: pointer;
+  border-radius: 40%;
+  position: absolute;
+  transition: 0.1s all;
+  background-color: lightgrey;
+  transform: translateY(-50%);
+}
+.multi-column-carousel .viewport .multi-column-button.previous {
+  left: 8px;
+}
+.multi-column-carousel .viewport .multi-column-button.previous.hidden {
+  left: -45px;
+}
+.multi-column-carousel .viewport .multi-column-button.next {
+  right: 8px;
+}
+.multi-column-carousel .viewport .multi-column-button.next.hidden {
+  right: -45px;
+}
+.multi-column-carousel .viewport .multi-column-button:hover {
+  opacity: 1;
+}
+.multi-column-carousel .viewport .page-container {
+  left: 0;
+  position: relative;
+}
+.multi-column-carousel .viewport .page-container:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+.multi-column-carousel .viewport .page-container .page {
+  float: left;
+}
+.multi-column-carousel .viewport .page-container .page .page-content {
+  padding: 30px;
+}
+
+.our-team {
+  padding: 60px 0;
+}
+.our-team .multi-column-carousel {
+  margin-top: 30px;
+}
+.our-team .multi-column-carousel .page-content {
+  text-align: center;
+}
+.our-team .multi-column-carousel .page-content .head-shot {
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto 60px;
+}

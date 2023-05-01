@@ -1,0 +1,150 @@
+a {
+  text-decoration:none;
+}
+.clear {
+    clear: both;
+}
+.item-holder {
+    position: relative;
+    width: 663px;
+    border: 1px solid rgb(214, 214, 214);
+    background: #ededed;
+}
+.team-list {
+  list-style:none;
+  
+}
+.team-list li .item-holder {
+    border-bottom: none;
+}
+.team-list li:last-child .item-holder {
+    border-bottom: 1px solid rgb(214, 214, 214);
+}
+.member-img {
+    width: 160px;
+    height: 191px;
+    float: left;
+    object-fit:cover;
+}
+.member-info {
+    float: left;
+    width: 300px;
+
+}
+.member-info h2 {
+    font-family: 'Dosis',sans-serif;
+	font-size: 26px;
+    padding: 15px 0 10px 20px;
+    color: #414141;
+}
+.member-info p, .member-info-plus p {
+    font-family: Helvetica,sans-serif;
+    font-size: 14px;
+    padding-left: 21px;
+    line-height: 18px;
+    color: #6B6B6B;
+}
+.social-list {
+  list-style:none;
+  margin-top:12px;
+  margin-left: 21px;
+}
+.social-list li {
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 1px;
+    position: relative;
+    top: -122px;
+    opacity: 0;
+    transition: all .5s;
+    -webkit-transition: all .5s; /* Safari */
+}
+.social-list li a {
+  color:#fff;
+  text-align:center;
+}
+
+.social-list li a i {
+  margin-top:6px;
+}
+
+.social-list li.ln {
+    background: #39C url("http://migkapa.com/site/lab/css3hover/images/linked-icon.png") no-repeat center;
+}
+
+.social-list li.fb {
+    background: #3B5998 url("http://migkapa.com/site/lab/css3hover/images/facebook-icon.png") no-repeat center;
+}
+.social-list li a {
+    display: block;
+    width: 30px;
+    height: 30px;
+}
+.more-btn {
+    display: block;
+    width: 30px;
+    height: 25px;
+    background: #004658;
+    position: absolute;
+    right: -1px;
+    bottom: -1px;
+    font-size: 21px;
+    text-align: center;
+    padding-top: 3px;
+    color: #FFF;
+    font-weight: bold;
+}
+.more-btn.opened span {
+  display:block;
+      -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+}
+
+.item-holder:hover .social-list li {
+    top: 0;
+    transition: all .2s;
+    -webkit-transition: all .2s; /* Safari */
+    opacity: 1;
+}
+
+.item-holder:hover .social-list li.twitter {
+    transition-delay: .1s;
+    -webkit-transition-delay:.1s;
+}
+.item-holder:hover .social-list li.fb {
+    transition-delay: .2s;
+    -webkit-transition-delay:.2s;
+}
+.item-holder:hover .social-list li.dribble {
+    transition-delay: .3s;
+    -webkit-transition-delay:.3s;
+}
+
+.item-holder:hover .more-btn {
+    background: #2980B9;
+}
+.member-info-plus {
+    display: none;
+    border-top: 1px solid rgb(214, 214, 214);
+    background: #DDD;
+}
+.member-info-plus p {
+    padding: 15px 30px 30px 15px;
+}
+.rotate span {
+    transform:rotate(45deg);
+    -webkit-transform:rotate(45deg);
+    display: block;
+}
+
+@media (max-width: 768px){
+    
+    .item-holder{
+		width:100%;;
+		
+    }
+	
+
+}

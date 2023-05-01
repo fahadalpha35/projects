@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.hodcontainer{
+	width: 80%;
+	margin: 80px auto;
+}
+.hodrow{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	
+}
+
+.hodcol{
+	flex-basis: 50%;
+	min-width:250px;
+}
+
+.card {
+    
+    width: 82rem;
+    background:rgb(2, 41, 81, 0.82);
+    box-shadow: 0 0 15;
+    border-radius: 50px;
+	
+}
+.card img{
+    
+    border-radius: 50%;
+    position: relative;
+    top: 0px;
+    left: 300px;
+	
+
+}
+.card-body{
+    padding: 10px 20px;
+	position: relative;
+}
+.card-body p {
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+    font-size: 15px;
+}
+
+.card-body button{
+    position: relative;
+    left: 20px;
+	top: 20px;
+    bottom: 50px;
+    padding: 5px 7px;
+    font-weight: bolder;
+    background-color: rgba(94, 163, 174, 0.57);
+    font-size: 15px;
+}
+#more{
+    display: none;
+}
+
+@media only screen and (max-width:1328px){
+    .card {
+    width: 20rem;
+    
+	}
+	.card-body button{
+    left: 34%;
+	}
+	.card img{
+    left: 60px;
+	}
+	
+}

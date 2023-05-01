@@ -1,0 +1,94 @@
+body,
+html {
+   font-family: 'Roboto', sans-serif;
+   font-size: 15px;
+}
+
+#content {
+   background: #eee;
+}
+
+
+
+.gallery {
+   padding: 20px;
+   text-align: center;
+   max-width: 1200px;
+   margin: auto;
+}
+
+.item {
+   display: inline-block;
+   text-decoration: none;
+   background: #FFF;
+   margin: 10px;
+   -webkit-box-shadow: 2px 2px 2px 0px rgba(212, 212, 212, 1);
+   -moz-box-shadow: 2px 2px 2px 0px rgba(212, 212, 212, 1);
+   box-shadow: 2px 2px 2px 0px rgba(212, 212, 212, 1);
+   position: relative;
+}
+
+.item img{
+   width: 360px;
+   height: 260px;
+}
+
+.item .stats {
+   font-size: 13px;
+   position: absolute;
+   bottom: 10px;
+   left: 10px;
+   color: #555;
+}
+
+.item .stats i {
+   transition: color 250ms;
+   -webkit-transition: color 250ms;
+   -moz-transition: color 250ms;
+   -o-transition: color 250ms;
+}
+
+.item .stats span:hover .fa-heart {
+   color: red;
+}
+
+.item h2 {
+   padding: 10px;
+   padding-bottom: 0;
+   font-size: 20px;
+   color: #333;
+}
+
+.item p {
+   font-size: 15px;
+   padding: 10px;
+   padding-bottom: 20px;
+   color: silver;
+}
+
+.item .description {
+   display: block;
+   position: absolute;
+   top: 0;
+   left: 0;
+   color: #eee;
+   height: 260px;
+   background: rgba(0, 0, 0, .7);
+   width: 0;
+   padding: 0;
+   overflow: hidden;
+   transition: width 500ms;
+   -webkit-transition: width 500ms;
+   -moz-transition: width 500ms;
+   -o-transition: width 500ms;
+}
+
+.item .description p {
+   width: 320px;
+   display: block;
+   padding: 20px;
+}
+
+.item:hover .description {
+   width: 360px;
+}

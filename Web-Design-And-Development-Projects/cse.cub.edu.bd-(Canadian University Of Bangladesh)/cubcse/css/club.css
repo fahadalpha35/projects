@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:bold,medium');
+
+h1{
+  font-family: 'Libre Franklin', sans-serif;   
+  text-align: center;
+  margin-bottom: 5px;
+  color: #283D4A;
+}
+
+.h1__underline{
+  margin-left: auto;
+  margin-right: auto;
+  width: 22%;
+  display: block;
+  margin-bottom: 50px;
+}
+
+
+/* MAIN CONTAINER */
+
+.articles{
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+/* ARTICLE CARDS */
+
+.articles__article-card{
+height: 400px;
+width: 380px;
+cursor: pointer;
+margin-bottom: 40px;
+}
+
+.articles__article-card:hover{
+border-bottom: 20px solid #004658;
+opacity: 2.46;
+box-sizing: border-box;
+}
+
+/* ARTICLE CARDS - TOP */
+
+.articles__article-card__top{
+opacity: 2.46;
+background-size: cover;
+height: 60%;
+position: relative;
+}
+
+
+
+.articles__article-card__top__article-cat{
+background: white;
+padding: 5px 10px;
+border-radius: 6px;
+color: #FC6C03;
+position: absolute;
+top: 10px;
+right: 10px;  
+font-family: 'Libre Franklin', sans-serif;   
+font-weight: 200;    
+}
+
+/* ARTICLE CARDS - BOTTOM */
+
+.articles__article-card__bottom{
+background: rgba(255, 255, 255, 2.46);
+height: 35%;
+}
+
+.articles__article-card__bottom__date-title{
+padding: 15px;
+}
+
+.articles__article-card__bottom__date-title__date{
+font-size: 13px;
+color: #99A7B0;
+font-family: 'Libre Franklin', sans-serif;   
+font-weight: 200;  
+}
+
+.articles__article-card__bottom__date-title__title{
+margin-top: 6px;
+font-family: 'Libre Franklin', sans-serif;
+ color: #283D4A; 
+}
+
+/* UTILITY CLASSES */
+
+.letter-spacing{
+letter-spacing: .05em;
+}

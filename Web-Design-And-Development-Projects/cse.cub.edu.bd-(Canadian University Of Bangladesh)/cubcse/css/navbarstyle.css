@@ -1,0 +1,231 @@
+.main-header {background: #001726; line-height: 45px; }             
+            .main-navigation .menu a.active, .main-navigation .menu a:hover {background: #001726; }
+            .main-navigation ul li {display: inline-block; position: relative; }
+            .main-navigation ul li a {padding: 25px 10px; display: block; text-transform: capitalize; color: #ffffff; font-size: 15px; font-weight: 500; position: relative; z-index: 1; line-height: 1; }
+            .main-navigation ul ul li a{color: #ffffff; }
+            /* Main Menu CSS End*/
+            /* Submenu / Dropdown Menu CSS */
+            .main-navigation ul li ul {position: absolute; width: 250px; left: 0; top: 43px; z-index: 2; -webkit-transition: .3s; transition: .3s; visibility: hidden; opacity: 0; background-color: #1e1916; margin: 0; padding: 0; list-style: none; }
+            .main-navigation ul li:hover > ul {opacity: 1; visibility: visible; }
+            .main-navigation ul li ul li a {padding: 14px 20px; line-height: 26px; }
+            .main-navigation ul li ul li {display: block; text-align: left; }
+            .main-navigation ul li ul ul {left: 250px; top: 0; }
+            .main-navigation ul li ul li {border-bottom: 1px solid #000000; }
+            .main-navigation ul li ul li:last-child {border-bottom: 0; }
+            /* Submenu / Dropdown Menu CSS End */
+            /* Mobile Menu CSS Start*/
+            .mobile-menu-trigger {cursor: pointer; margin-left: 30px; display: none; background: transparent; border: none; }
+            .mobile-menu-trigger span {height: 2px; display: block; width: 35px; margin-bottom: 9px; background-color: #fff; }
+            .mobile-menu-trigger span:last-child {margin-bottom: 0; }
+            .mobile-menu-container {position: fixed; top: 0; bottom: 0; left: 0; width: 100%; background-color: #001726; z-index: 999999; opacity: 0; visibility: hidden; overflow-y: scroll; -ms-transform: translateX(100%); -webkit-transform: translateX(100%); transform: translateX(100%); overflow-x: hidden; -webkit-transition: .4s; transition: .4s; }
+            .mobile-menu-container li {opacity: 0; visibility: hidden; -ms-transform: translateX(1000px); -webkit-transform: translateX(1000px); transform: translateX(100px); -webkit-transition: 1s; transition: 1s; border-top: 1px solid rgb(255 255 255 / 8%);}
+            .mobile-menu-container li:nth-last-child(1) {border-bottom: 1px solid rgb(255 255 255 / 8%); }
+            .mobile-menu-container li > a .slicknav_arrow:after {content: "<"; position: absolute; font-family: 'FontAwesome'; top: 0; bottom: 0; color: white; z-index: 999; margin: 0 auto; text-align: center; right: 0; left: 0; font-size: 16px; line-height: 50px; }
+            .mobile-menu-container.menu-open li.slicknav_open > a .slicknav_arrow:after{content: "˅";}
+            .mobile-menu-container.menu-open {opacity: 1; visibility: visible; -ms-transform: translateX(0%); -webkit-transform: translateX(0%); transform: translateX(0%); } 
+            .mobile-menu-container.menu-open li {opacity: 1; visibility: visible; -ms-transform: translateX(0); -webkit-transform: translateX(0); transform: translateX(0); }
+            .mobile-menu-close {position: absolute; right: 20px; top: 50px; width: 30px; height: 30px; cursor: pointer; z-index: 1; }
+            .mobile-menu-close::before {left: 15px; -ms-transform: rotate(45deg); -webkit-transform: rotate(45deg); transform: rotate(45deg); }
+            .mobile-menu-close::after {right: 13px; -ms-transform: rotate(-45deg); -webkit-transform: rotate(-45deg); transform: rotate(-45deg); }
+            .mobile-menu-close::before, .mobile-menu-close::after {position: absolute; height: 30px; width: 2px; background: #ffffff; content: ''; top: 0; }
+            #mobile-menu-wrap {display: block; height: 100%; width: 100%; position: absolute; right: 0; padding: 150px 20px 20px 20px; }
+            #mobile-menu-wrap div {background-color: transparent; }
+            #mobile-menu-wrap .slicknav_item i{display: none;}
+            /*Sidebar Start*/
+            .slicknav_nav, .slicknav_nav.slicknav_hidden {display: block !important; text-align: left; }
+            .slicknav_btn {display: none !important; }
+            .slicknav_menu {padding-left: 0; }
+            .slicknav_nav li > a {display: block; font-weight: 400; } 
+            .slicknav_item.slicknav_row a {border-bottom: 0; }
+            .slicknav_nav .slicknav_row, .slicknav_nav a {padding: 10px 0px; margin: 0; }
+            .slicknav_nav .slicknav_arrow {font-size: 0; background: rgb(255 255 255 / 8%); height: 100%; width: 50px; display: inline-block; position: absolute; top: 0; }
+            .slicknav_nav ul {margin: 0 0 0 0px; }
+            .slicknav_nav .menu-item-has-children ul {margin-bottom: 00px; }
+            .slicknav_nav .menu-item-has-children ul li {padding-left: 25px; }
+            .sub-menu .menu-item-has-children a i {position: absolute; right: 20px; top: 20px; }
+            .slicknav_nav a:hover, .slicknav_nav .slicknav_row:hover {background-color: transparent; }
+            .slicknav_nav .slicknav_row:hover, .slicknav_nav a:hover {border-radius: 0; }
+            .slicknav_item.slicknav_row {display: inline-block; width: 100%; position: relative; }
+            .slicknav_arrow {-webkit-transition: .3s; transition: .3s; right: 0; top: 17px; position: absolute; }
+            .slicknav_nav a, .slicknav_row a {color: #ffffff; font-size: 18px; display: inline-block; }
+            /*Sidebar Start*/            
+            /* Mobile Menu CSS End*/
+		
+
+.navbar5 {
+
+  position: sticky;
+
+    z-index: 1000;
+
+}
+
+nav {
+  background: #001726;
+  min-height: 55px;
+}
+
+/*sticky header position*/
+.sticky.is-sticky {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}	
+	
+	
+
+@media (max-width:1200px) {
+  .navbar-brand {
+    width:230px;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar-brand {
+    width:230px;
+  }
+}
+
+@media (max-width: 500px) {
+  .navbar-brand {
+    width:150px;
+  }
+}
+
+@media (max-width: 300px) {
+  .navbar-brand {
+    width:100px;
+  }
+}
+
+	
+a {
+  color: red;
+	text-decoration: none;
+	background: linear-gradient(currentColor, currentColor) bottom / 0 .1em no-repeat;
+	transition: 1s background-size;
+}
+
+
+
+
+a.expand {
+  position: relative;
+  color: #000;
+  text-decoration: none;
+	padding: 0 3px 6px 3px;
+}
+a.expand:hover {
+  color: #000;
+}
+a.expand::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 5px;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(to right, red, orange, gold, green, blue, indigo, violet);
+  transform: scaleX(0);
+  transition: transform 0.4s ease;
+}
+a.expand:hover::before {
+  transform: scaleX(1);
+}
+
+/* Animate the line from the left */
+a.left-right {
+  position: relative;
+  color: #ffffff;
+  text-decoration: none;
+	padding: 0 3px 6px 3px;
+}
+a.left-right:hover {
+  color: #ffffff;
+}
+a.left-right::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 4px;
+  bottom: 0;
+  left: 0;
+  background: #2980B9;
+  transform: scaleX(0);
+  transform-origin: top left;
+  transition: transform 0.5s ease;
+}
+a.left-right:hover::before {
+  transform: scaleX(1);
+}
+
+/* Animate the line from the right */
+a.right-left {
+  position: relative;
+  color: #000;
+  text-decoration: none;
+	padding: 0 3px 6px 3px;
+}
+a.right-left:hover {
+  color: #000;
+}
+a.right-left::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 4px;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(to right, blue, purple, gold);
+  transform: scaleX(0);
+  transform-origin: top right;
+  transition: transform 0.3s ease;
+}
+a.right-left:hover::before {
+  transform: scaleX(1);
+}
+
+
+
+.grid {
+	display: grid;
+	grid: auto / 1fr;
+	gap: 2em;
+}
+
+
+
+
+
+
+
+a:hover {
+	background-size: 100% .1em;
+}
+
+/* Variations */
+a.left {
+	background-position: left bottom;
+}
+
+a.right {
+	background-position: right bottom;
+}
+
+            @media only screen and (max-width: 991px){
+                /*Menu*/
+                .header-navigation-area {display: none; }
+                .mobile-menu-trigger {display: block; }
+            } 
+
+/*Footer start*/
+            .codepen_profile{position: fixed; right: 20px; bottom: 20px;}
+            .codepen_profile a {background: rgb(245 122 32 / 53%); padding: 15px; border-radius: 50%; box-shadow: hsl(0deg 0% 80%) 0 5px 16px; height: 60px; width: 60px; display: inline-block; }
+            /*Footer End*/
+			
