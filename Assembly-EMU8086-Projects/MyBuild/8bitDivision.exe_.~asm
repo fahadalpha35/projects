@@ -1,0 +1,22 @@
+
+; PROGRAM TO DIVIDE TWO 8 BIT NUMBERS
+.MODEL SMALL
+.DATA
+REM DB 0
+QUO DB 0
+.CODE
+MOV AX , 06  ; Dividend is always AX and greater than divisor
+MOV BL , 05   ; Divisor
+
+DIV BL       ; Divide 26/5
+
+MOV QUO , AH ; Moving Quotient from AH to QUO variable
+MOV REM , AL ; Moving Quotient from AL to REM variable
+
+MOV AH , 4CH ; EXIT
+INT 21H
+END
+
+
+
+; [SOURCE]: D:\Documents\SPRING 2021\Microprocessor_and_Interfacing_Lab\Mid\Codes\8bitDivision.asm

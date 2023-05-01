@@ -1,0 +1,20 @@
+Assume CS: CODE, DS: DATA
+Code segment
+Start: MOV CX, 0004H
+MOV AX, 0000H
+MOV SI, 2000H
+MOV BX, 3000H
+UP: MOV AL, [SI]
+CMP AL, [BX]
+JZ DOWN
+INC SI
+DEC CL
+JNZ UP
+MOV AH, 00H
+JMP L3
+DOWN: DEC CL
+MOV AH, 01H
+MOV [DI], AH
+L3: INT 3H
+Code ends
+End start

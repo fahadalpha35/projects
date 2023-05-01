@@ -1,0 +1,8 @@
+MOV AX, 4343H
+MOV BX, 1111H
+SUB AX, BX
+INT 03H
+
+
+
+; [SOURCE]: D:\Documents\SPRING 2021\Microprocessor_and_Interfacing_Lab\Mid\substraction1.asm

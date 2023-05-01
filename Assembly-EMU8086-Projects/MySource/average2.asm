@@ -1,0 +1,16 @@
+.MODEL SMALL
+.STACK 100
+.DATA
+AVG DB ?
+.CODE
+START: MOV AX,@DATA
+       MOV DS, AX
+       MOV AX, 00
+       MOV AL, 14
+       ADD AL, 162
+	   ADD AL, 85
+	   ADD AL, 54
+       ADC AH, 00H
+       SAR AX, 1
+       MOV AVG, AL
+END START

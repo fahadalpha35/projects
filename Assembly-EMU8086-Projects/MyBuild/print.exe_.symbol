@@ -1,0 +1,17 @@
+< THE SYMBOL TABLE >  print.exe_  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+STACK                    	00000     	-5        	SEGMENT   	(ITSELF)  
+DATA                     	00010     	-5        	SEGMENT   	(ITSELF)  
+STRING                   	00000     	1         	VAR       	data      
+STRING2                  	00015     	1         	VAR       	data      
+STRING3                  	00023     	1         	VAR       	data      
+STRING4                  	00042     	1         	VAR       	data      
+STRING5                  	00058     	1         	VAR       	data      
+CODE                     	00017     	-5        	SEGMENT   	(ITSELF)  
+MAIN                     	00000     	-1        	FAR       	code      
+===================================================================================================
+[ 6/8/2021  --  9:10:57 PM ] 
+< END >
+ 

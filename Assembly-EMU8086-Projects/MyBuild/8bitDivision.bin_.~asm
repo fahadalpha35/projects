@@ -1,0 +1,8 @@
+MOV AX, 06H
+MOV BX, 101H
+DIV BX
+INT 03H
+
+
+
+; [SOURCE]: D:\Documents\SPRING 2021\Microprocessor_and_Interfacing_Lab\Mid\Codes\8bitDivision.asm

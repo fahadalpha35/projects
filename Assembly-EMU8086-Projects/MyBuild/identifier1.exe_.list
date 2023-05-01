@@ -1,0 +1,138 @@
+EMU8086 GENERATED LISTING. MACHINE CODE <- SOURCE.
+ 
+identifier1.exe_ -- emu8086 assembler version: 4.08  
+ 
+[ 5/1/2021  --  1:58:15 PM ] 
+ 
+===================================================================================================
+[LINE]     LOC: MACHINE CODE                          SOURCE
+===================================================================================================
+ 
+[   1]        :                                       DATA SEGMENT
+[   2]    0000: 45 4E 54 45 52 20 54 48 45 20 53 54   STR1 DB "ENTER THE STRING HERE :-> $ "
+                52 49 4E 47 20 48 45 52 45 3A 2D 3E 
+                20 24 20                            
+[   3]    001B: 59 4F 55 52 20 53 54 52 49 4E 47 20   STR2 DB "YOUR STRING IS :-> $"
+                49 53 3A 2D 3E 20 24                
+[   4]    002E: 53 54 52 49 4E 47 20 49 53 20 56 41   MSG1 DB "STRING IS VALID $"
+                4C 49 44 20 24                      
+[   5]    003F: 53 54 52 49 4E 47 20 49 53 20 4E 4F   MSG2 DB "STRING IS NOT VALID $"
+                54 20 56 41 4C 49 44 20 24          
+[   6]    0054: 24 24 24 24 24 24 24 24 24 24 24 24   INSTR1 DB 20 DUP("$")
+                24 24 24 24 24 24 24 24             
+[   7]    0068: 0A 0D 24                              NEWLINE DB 10,13,"$"
+[   8]        :                                       DATA ENDS
+[   9]        :                                       
+[  10]        :                                       CODE SEGMENT
+[  11]        :                                       
+[  12]        :                                       ASSUME DS:DATA,CS:CODE
+[  13]    0070:                                       START:
+[  14]        :                                       
+[  15]    0070: B8 00 00                              MOV AX,DATA
+[  16]    0073: 8E D8                                 MOV DS,AX
+[  17]        :                                       
+[  18]    0075: BE 54 00                              LEA SI,INSTR1
+[  19]        :                                       
+[  20]        :                                       ;GET THE STRING
+[  21]        :                                       
+[  22]    0078: B4 09                                 MOV AH,09H
+[  23]    007A: BA 00 00                              LEA DX,STR1
+[  24]    007D: CD 21                                 INT 21H
+[  25]        :                                       
+[  26]    007F: B4 0A                                 MOV AH,0AH
+[  27]    0081: BA 54 00                              LEA DX,INSTR1
+[  28]    0084: CD 21                                 INT 21H
+[  29]        :                                       
+[  30]    0086: B4 09                                 MOV AH,09H
+[  31]    0088: BA 68 00                              LEA DX,NEWLINE
+[  32]    008B: CD 21                                 INT 21H
+[  33]        :                                       
+[  34]        :                                       ;PRINT THE STRING
+[  35]        :                                       
+[  36]    008D: B4 09                                 MOV AH,09H
+[  37]    008F: BA 1B 00                              LEA DX,STR2
+[  38]    0092: CD 21                                 INT 21H
+[  39]        :                                       
+[  40]    0094: B4 09                                 MOV AH,09H
+[  41]    0096: BA 56 00                              LEA DX,INSTR1+2
+[  42]    0099: CD 21                                 INT 21H
+[  43]        :                                       
+[  44]        :                                       ;CHECK STRING IS VALID OR NOT
+[  45]    009B: B4 09                                 MOV AH,09H
+[  46]    009D: BA 68 00                              LEA DX,NEWLINE
+[  47]    00A0: CD 21                                 INT 21H
+[  48]        :                                       
+[  49]    00A2: BB 00 00                              MOV BX,00
+[  50]    00A5: 83 C6 02                              ADD SI,2
+[  51]        :                                       
+[  52]        :                                       
+[  53]    00A8: 8A 1C                                 MOV BL,BYTE PTR[SI]
+[  54]        :                                       
+[  55]    00AA: 80 EB 30                              SUB BL,30H
+[  56]        :                                       
+[  57]    00AD: 80 FB 00                              CMP BL,0
+[  58]    00B0: 7C 0E                                 JL L1
+[  59]    00B2: 80 FB 09                              CMP BL,9
+[  60]    00B5: 7F 09                                 JG L1
+[  61]        :                                       
+[  62]    00B7: B4 09                                 MOV AH,09H
+[  63]    00B9: BA 3F 00                              LEA DX,MSG2
+[  64]    00BC: CD 21                                 INT 21H
+[  65]    00BE: EB 07                                 JMP L2
+[  66]    00C0:                                       L1:
+[  67]    00C0: B4 09                                 MOV AH,09H
+[  68]    00C2: BA 2E 00                              LEA DX,MSG1
+[  69]    00C5: CD 21                                 INT 21H
+[  70]        :                                       
+[  71]    00C7: B4 4C                                 L2: MOV AH,4CH
+[  72]    00C9: CD 21                                 INT 21H
+[  73]        :                                       
+[  74]        :                                       
+[  75]        :                                       CODE ENDS
+[  76]        :                                       END START
+[  77]        :                                       
+ 
+===================================================================================================
+ 
+EXE HEADER - bytes from 0000 to 01FF inclusive.
+
+0000: 4D      -   exe signature (M)
+0001: 5A      -   exe signature (Z)
+0002: CB      -   bytes on last page (l.byte)
+0003: 00      -   bytes on last page (h.byte)
+0004: 02      -   512 byte pages in file (l.byte)
+0005: 00      -   512 byte pages in file (h.byte)
+0006: 01      -   relocations (l.byte)
+0007: 00      -   relocations (h.byte)
+0008: 20      -   paragraphs in header (l.byte)
+0009: 00      -   paragraphs in header (h.byte)
+000A: 00      -   minimum memory (l.byte)
+000B: 00      -   minimum memory (h.byte)
+000C: FF      -   maximum memory (l.byte)
+000D: FF      -   maximum memory (h.byte)
+000E: 00      -   SS - stack segment (l.byte)
+000F: 00      -   SS - stack segment (h.byte)
+0010: 00      -   SP - stack pointer (l.byte)
+0011: 00      -   SP - stack pointer (h.byte)
+0012: 9E      -   check sum (l.byte)
+0013: 53      -   check sum (h.byte)
+0014: 00      -   IP - instruction pointer (l.byte)
+0015: 00      -   IP - instruction pointer (h.byte)
+0016: 07      -   CS - code segment (l.byte)
+0017: 00      -   CS - code segment (h.byte)
+0018: 1E      -   relocation table adress (l.byte)
+0019: 00      -   relocation table adress (h.byte)
+001A: 00      -   overlay number (l.byte)
+001B: 00      -   overlay number (h.byte)
+001C: 01      -   signature (l.byte)
+001D: 00      -   signature (h.byte)
+001E: 01      -   relocation table - offset inside segment (l.byte)
+001F: 00      -   relocation table - offset inside segment (h.byte)
+0020: 07      -   relocation table - segment anchor (l.byte)
+0021: 00      -   relocation table - segment anchor (h.byte)
+0022 to 01FF  -   reserved relocation area  (00) 
+
+
+
+
+===================================================================================================

@@ -1,0 +1,28 @@
+.MODEL SMALL
+.STACK 100H
+
+
+
+MAIN PROC
+Start: MOV AX,0000H
+MOV SI,2000H
+MOV DI,3000H
+MOV BX,2008H
+MOV CL,04H
+UP : MOV AL, [SI]
+SUB AL, [BX]
+MOV [DI], AL
+INC SI
+INC BX
+INC DI
+DEC CL
+JNZ UP
+INT 03H
+
+End start
+MAIN ENDP
+END MAIN
+
+
+
+; [SOURCE]: D:\Documents\SPRING 2021\Microprocessor_and_Interfacing_Lab\Mid\substraction1.asm

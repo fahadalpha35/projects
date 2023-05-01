@@ -1,0 +1,30 @@
+01| .MODEL SMALL          ; To declare the size of the program.
+02| .STACK 100H           ; To declare the stack value in hexadecimal.
+03|
+04| .DATA
+05| MSG DW 'ABC$'         ; Declaring variable MSG with string ABC.
+06| .CODE                 ; We use a $ sign at the end the string when we declare it in the variable. 
+07|
+08| MAIN PROC             ; Main procedure of the program starts from here.
+09|     MOV AX, @DATA
+10|     MOV DS, AX        ; Declare to access the assigned variable.
+11|    
+12|     MOV AH, 9         ; When we print a string we use MOV AH, 9.
+13|     LEA DX, MSG       ; To print the strings of MSG.
+14|     INT 21H           ; To execute the command.
+15|    
+16|     MOV BL, '2'       ; Assigning the value 2 in BL register. So, BL=2.
+17|     MOV DL, BL        ; Putting the value of BL register in DL register. So, DL=2, BL=2.
+18|     MOV BH, '3'       ; Assigning the value 3 in BH register. So, BH=3.
+19|     INC DL            ; Increment the value of DL. So, DL=3.
+20|     INC DL            ; Increment the value of DL. DL=4.
+21|    
+22|     MOV AH, 2         ; To print a single value of DL we use MOV AH, 2.
+23|     INT 21H           ; To execute the command.
+24|    
+25|     MOV AX, 4CH       ; Declare to return the value of the program.
+26|     INT 21H
+27|     MAIN ENDP
+28| END MAIN              ; Main procedure of the program ends here.
+
+Output of the program is = "ABC4".

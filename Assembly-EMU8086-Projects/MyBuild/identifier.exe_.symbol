@@ -1,0 +1,18 @@
+< THE SYMBOL TABLE >  identifier.exe_  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+DATA                     	00000     	-5        	SEGMENT   	(ITSELF)  
+MSG1                     	00000     	1         	VAR       	DATA      
+MSG2                     	00016     	1         	VAR       	DATA      
+MSG3                     	0002E     	1         	VAR       	DATA      
+STR1                     	00040     	1         	VAR       	DATA      
+LINE                     	00054     	1         	VAR       	DATA      
+CODE                     	00006     	-5        	SEGMENT   	(ITSELF)  
+START                    	00000     	-1        	LABEL     	CODE      
+L2                       	00032     	-1        	LABEL     	CODE      
+L1                       	00039     	-1        	LABEL     	CODE      
+===================================================================================================
+[ 5/1/2021  --  2:30:21 PM ] 
+< END >
+ 

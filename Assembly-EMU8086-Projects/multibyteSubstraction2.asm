@@ -1,0 +1,14 @@
+    MOV AX,0000H
+    MOV SI,3000H
+    MOV DI,4000H
+    MOV BX,3008H
+    MOV CL,04H
+UP: MOV AL, [SI]
+    SUB AL, [BX]
+    MOV [DI], AL
+    INC SI
+    INC BX
+    INC DI
+    DEC CL
+    JNZ UP
+    INT 03H

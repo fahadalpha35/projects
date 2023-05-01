@@ -1,0 +1,22 @@
+MOV BX , 0000H
+MOV SI , 0001H
+XOR DI , DI
+NEXT: CALL SUBR
+ADD BX , AX
+ADC DI , 0000H
+INC SI
+CMP SI , 0007H
+JNZ NEXT
+HLT
+
+; Subroutine finds the power
+SUBR: MOV CX ,SI
+MOV AX , 0001H
+AGAIN: MUL SI
+DEC CX
+JNZ AGAIN
+RET
+
+
+
+; [SOURCE]: C:\emu8086\MySource\series.asm

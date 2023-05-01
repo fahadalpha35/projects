@@ -1,0 +1,16 @@
+< THE SYMBOL TABLE >  mycode2.exe_  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+STACK                    	00000     	-5        	SEGMENT   	(ITSELF)  
+DATA                     	00010     	-5        	SEGMENT   	(ITSELF)  
+VOWEL                    	00000     	1         	VAR       	data      
+CONSONANT                	00008     	1         	VAR       	data      
+CODE                     	00012     	-5        	SEGMENT   	(ITSELF)  
+MAIN                     	00000     	-1        	NEAR      	code      
+VL                       	00062     	-1        	LABEL     	code      
+EXIT                     	00069     	-1        	LABEL     	code      
+===================================================================================================
+[ 1/16/2021  --  10:31:48 AM ] 
+< END >
+ 

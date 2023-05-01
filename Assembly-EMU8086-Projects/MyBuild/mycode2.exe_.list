@@ -1,0 +1,130 @@
+EMU8086 GENERATED LISTING. MACHINE CODE <- SOURCE.
+ 
+mycode2.exe_ -- emu8086 assembler version: 4.08  
+ 
+[ 1/16/2021  --  10:31:48 AM ] 
+ 
+===================================================================================================
+[LINE]     LOC: MACHINE CODE                          SOURCE
+===================================================================================================
+ 
+[   1]        :                                       .MODEL SMALL
+[   2]        :                                       .STACK 100H
+[   3]        :                                       
+[   4]        :                                       .DATA
+[   5]    0100: 0D 0A 56 4F 57 45 4C 24               VOWEL DB 0DH,0AH,'VOWEL$'
+[   6]    0108: 0D 0A 43 4F 4E 53 4F 4E 41 4E 54 24   CONSONANT DB 0DH,0AH,'CONSONANT$'
+                                                    
+[   7]        :                                       
+[   8]        :                                       .CODE
+[   9]    0120:                                       MAIN PROC
+[  10]        :                                       
+[  11]    0120: B8 10 00                              MOV AX,@DATA
+[  12]    0123: 8E D8                                 MOV DS,AX
+[  13]        :                                       
+[  14]    0125: B4 01                                 MOV AH,1
+[  15]    0127: CD 21                                 INT 21H
+[  16]        :                                       
+[  17]    0129: 3C 41                                 CMP AL,'A'
+[  18]    012B: 74 55                                 JE VL
+[  19]    012D: 3C 45                                 CMP AL,'E'
+[  20]    012F: 74 51                                 JE VL
+[  21]    0131: 3C 49                                 CMP AL,'I'
+[  22]    0133: 74 4D                                 JE VL
+[  23]    0135: 3C 4F                                 CMP AL,'O'
+[  24]    0137: 74 49                                 JE VL
+[  25]    0139: 3C 55                                 CMP AL,'U'
+[  26]    013B: 74 45                                 JE VL
+[  27]    013D: 3C 61                                 CMP AL,'a'
+[  28]    013F: 74 41                                 JE VL
+[  29]    0141: 3C 65                                 CMP AL,'e'
+[  30]    0143: 74 3D                                 JE VL
+[  31]    0145: 3C 69                                 CMP AL,'i'
+[  32]    0147: 74 39                                 JE VL
+[  33]    0149: 3C 6F                                 CMP AL,'o'
+[  34]    014B: 74 35                                 JE VL
+[  35]    014D: 3C 75                                 CMP AL,'u'
+[  36]    014F: 74 31                                 JE VL
+[  37]        :                                       
+[  38]    0151: 3C 30                                 CMP AL,'0'
+[  39]    0153: 74 2D                                 JE VL
+[  40]    0155: 3C 31                                 CMP AL,'1'
+[  41]    0157: 74 29                                 JE VL
+[  42]    0159: 3C 32                                 CMP AL,'2'
+[  43]    015B: 74 25                                 JE VL
+[  44]    015D: 3C 33                                 CMP AL,'3'
+[  45]    015F: 74 21                                 JE VL
+[  46]    0161: 3C 34                                 CMP AL,'4'
+[  47]    0163: 74 1D                                 JE VL
+[  48]    0165: 3C 35                                 CMP AL,'5'
+[  49]    0167: 74 19                                 JE VL
+[  50]    0169: 3C 36                                 CMP AL,'6'
+[  51]    016B: 74 15                                 JE VL
+[  52]    016D: 3C 37                                 CMP AL,'7'
+[  53]    016F: 74 11                                 JE VL
+[  54]    0171: 3C 38                                 CMP AL,'8'
+[  55]    0173: 74 0D                                 JE VL
+[  56]    0175: 3C 39                                 CMP AL,'9'
+[  57]    0177: 74 09                                 JE VL
+[  58]        :                                       
+[  59]    0179: BA 08 00                              LEA DX,CONSONANT
+[  60]    017C: B4 09                                 MOV AH,9
+[  61]    017E: CD 21                                 INT 21H
+[  62]    0180: EB 07                                 JMP EXIT
+[  63]        :                                       
+[  64]    0182:                                       VL:
+[  65]    0182: BA 00 00                              LEA DX,VOWEL
+[  66]    0185: B4 09                                 MOV AH,9
+[  67]    0187: CD 21                                 INT 21H
+[  68]        :                                       
+[  69]    0189:                                       EXIT:
+[  70]    0189: B4 4C                                 MOV AH,4CH
+[  71]    018B: CD 21                                 INT 21H
+[  72]        :                                       MAIN ENDP
+[  73]        :                                       END MAIN
+[  74]        :                                       
+ 
+===================================================================================================
+ 
+EXE HEADER - bytes from 0000 to 01FF inclusive.
+
+0000: 4D      -   exe signature (M)
+0001: 5A      -   exe signature (Z)
+0002: 8D      -   bytes on last page (l.byte)
+0003: 01      -   bytes on last page (h.byte)
+0004: 02      -   512 byte pages in file (l.byte)
+0005: 00      -   512 byte pages in file (h.byte)
+0006: 01      -   relocations (l.byte)
+0007: 00      -   relocations (h.byte)
+0008: 20      -   paragraphs in header (l.byte)
+0009: 00      -   paragraphs in header (h.byte)
+000A: 00      -   minimum memory (l.byte)
+000B: 00      -   minimum memory (h.byte)
+000C: FF      -   maximum memory (l.byte)
+000D: FF      -   maximum memory (h.byte)
+000E: 00      -   SS - stack segment (l.byte)
+000F: 00      -   SS - stack segment (h.byte)
+0010: 00      -   SP - stack pointer (l.byte)
+0011: 01      -   SP - stack pointer (h.byte)
+0012: 81      -   check sum (l.byte)
+0013: 6D      -   check sum (h.byte)
+0014: 00      -   IP - instruction pointer (l.byte)
+0015: 00      -   IP - instruction pointer (h.byte)
+0016: 12      -   CS - code segment (l.byte)
+0017: 00      -   CS - code segment (h.byte)
+0018: 1E      -   relocation table adress (l.byte)
+0019: 00      -   relocation table adress (h.byte)
+001A: 00      -   overlay number (l.byte)
+001B: 00      -   overlay number (h.byte)
+001C: 01      -   signature (l.byte)
+001D: 00      -   signature (h.byte)
+001E: 01      -   relocation table - offset inside segment (l.byte)
+001F: 00      -   relocation table - offset inside segment (h.byte)
+0020: 12      -   relocation table - segment anchor (l.byte)
+0021: 00      -   relocation table - segment anchor (h.byte)
+0022 to 01FF  -   reserved relocation area  (00) 
+
+
+
+
+===================================================================================================
