@@ -1,0 +1,53 @@
+2016-09-12T21:01:23Z Resolving host name "31.170.160.100"
+2016-09-12T21:01:23Z Proxy: Resolving host name ftp.samsqlserver.xyz
+2016-09-12T21:01:23Z Connecting to 31.170.160.100 Port: 21
+2016-09-12T21:01:23Z Proxy: Connecting to HTTP proxy server ftp.samsqlserver.xyz Port: 21
+2016-09-12T21:01:23Z Proxy: Connecting to HTTP proxy server ftp.samsqlserver.xyz Port: 21
+2016-09-12T21:01:44Z Client closed the connection.
+2016-09-12T21:01:44Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:04:25Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T21:04:25Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:04:46Z Client closed the connection.
+2016-09-12T21:04:46Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:09:11Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T21:09:11Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:09:32Z Client closed the connection.
+2016-09-12T21:09:32Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:19:57Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T21:19:57Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:20:18Z Client closed the connection.
+2016-09-12T21:20:18Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:24:43Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T21:24:43Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:25:04Z Client closed the connection.
+2016-09-12T21:25:04Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:26:53Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T21:26:53Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:27:14Z Client closed the connection.
+2016-09-12T21:27:14Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:28:37Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T21:28:37Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:28:58Z Client closed the connection.
+2016-09-12T21:28:58Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:34:41Z Resolving host name "samsqlserver.xyz"
+2016-09-12T21:34:41Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:35:02Z Client closed the connection.
+2016-09-12T21:35:02Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:36:14Z Resolving host name "samsqlserver.xyz"
+2016-09-12T21:36:14Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:36:35Z Client closed the connection.
+2016-09-12T21:36:35Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:59:44Z Resolving host name "samsqlserver.xyz"
+2016-09-12T21:59:44Z Proxy: Resolving host name ftp.samsqlserver.xyz
+2016-09-12T21:59:44Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:59:44Z Proxy: Connecting to SOCKS4 proxy server ftp.samsqlserver.xyz Port: 21
+2016-09-12T21:59:44Z Proxy: Connecting to SOCKS4 proxy server ftp.samsqlserver.xyz Port: 21
+2016-09-12T22:00:05Z Client closed the connection.
+2016-09-12T22:00:05Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T22:00:26Z Resolving host name "samsqlserver.xyz"
+2016-09-12T22:00:26Z Proxy: Resolving host name ftp.samsqlserver.xyz
+2016-09-12T22:00:26Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T22:00:26Z Proxy: Connecting to SOCKS4 proxy server ftp.samsqlserver.xyz Port: 21
+2016-09-12T22:00:26Z Proxy: Connecting to SOCKS4 proxy server ftp.samsqlserver.xyz Port: 21
+2016-09-12T22:00:47Z Client closed the connection.
+2016-09-12T22:00:47Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.

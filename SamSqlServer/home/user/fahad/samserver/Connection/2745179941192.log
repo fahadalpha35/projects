@@ -1,0 +1,8 @@
+2016-09-12T17:33:25Z Resolving host name "samsqlserver.xyz"
+2016-09-12T17:33:25Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T17:33:46Z Client closed the connection.
+2016-09-12T17:33:46Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T18:40:36Z Resolving host name "samsqlserver.xyz"
+2016-09-12T18:40:36Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T18:40:57Z Client closed the connection.
+2016-09-12T18:40:57Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.

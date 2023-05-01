@@ -1,0 +1,95 @@
+2016-09-12T17:56:14Z Detecting WebDAV support
+2016-09-12T17:56:14Z Sending request...
+2016-09-12T17:56:14Z OPTIONS /samsqlserver/
+2016-09-12T17:56:15Z Receiving reply...
+2016-09-12T17:56:15Z HTTP/1.1 200 OK
+Connection: keep-alive
+Date: Mon, 12 Sep 2016 17:56:16 GMT
+Allow: OPTIONS, TRACE, GET, HEAD, POST
+Content-Length: 0
+Age: 0
+Server: Microsoft-IIS/7.5
+Public: OPTIONS, TRACE, GET, HEAD, POST
+X-Powered-By: ASP.NET
+2016-09-12T17:56:15Z Sending request...
+2016-09-12T17:56:15Z PROPFIND /samsqlserver/
+2016-09-12T17:56:15Z Receiving reply...
+2016-09-12T17:56:15Z HTTP/1.1 200 OK
+Cache-Control: no-cache
+Connection: keep-alive
+Date: Mon, 12 Sep 2016 17:56:16 GMT
+Pragma: no-cache
+Content-Length: 339
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Age: 1
+Server: Microsoft-IIS/7.5
+Vary: Accept-Encoding
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+2016-09-12T17:56:15Z Sending request...
+2016-09-12T17:56:15Z HEAD /
+2016-09-12T17:56:57Z Sending request...
+2016-09-12T17:56:57Z HEAD /setup-owncloud.php.txt
+2016-09-12T18:00:07Z Sending request...
+2016-09-12T18:00:07Z HEAD /
+2016-09-12T18:01:20Z Sending request...
+2016-09-12T18:01:20Z PUT /setup-owncloud.php.txt
+2016-09-12T18:02:33Z Sending request...
+2016-09-12T18:02:33Z PUT /setup-owncloud.php.txt
+2016-09-12T18:03:46Z Sending request...
+2016-09-12T18:03:46Z PUT /setup-owncloud.php.txt
+2016-09-12T18:04:59Z Sending request...
+2016-09-12T18:04:59Z PUT /setup-owncloud.php.txt
+2016-09-12T18:06:24Z Sending request...
+2016-09-12T18:06:24Z HEAD /setup-owncloud.php.txt
+2016-09-12T18:07:11Z Sending request...
+2016-09-12T18:07:11Z DELETE /setup-owncloud.php.txt
+2016-09-12T18:07:55Z Sending request...
+2016-09-12T18:07:55Z DELETE /setup-owncloud.php.txt
+2016-09-12T18:08:38Z Sending request...
+2016-09-12T18:08:38Z DELETE /setup-owncloud.php.txt
+2016-09-12T18:09:26Z Sending request...
+2016-09-12T18:09:26Z DELETE /setup-owncloud.php.txt
+2016-09-12T18:10:10Z Sending request...
+2016-09-12T18:10:10Z DELETE /setup-owncloud.php.txt
+2016-09-12T18:10:54Z Sending request...
+2016-09-12T18:10:54Z DELETE /setup-owncloud.php.txt
+2016-09-12T18:10:54Z Receiving reply...
+2016-09-12T18:10:54Z HTTP/1.1 405 Method Not Allowed
+Connection: keep-alive
+Date: Mon, 12 Sep 2016 18:10:55 GMT
+Allow: GET, HEAD, OPTIONS, TRACE
+Content-Length: 1293
+Content-Type: text/html
+Age: 1
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+2016-09-12T18:10:56Z Sending request...
+2016-09-12T18:10:56Z DELETE /setup-owncloud.php.txt
+2016-09-12T18:10:56Z Receiving reply...
+2016-09-12T18:10:56Z HTTP/1.1 200 OK
+Cache-Control: no-cache
+Connection: keep-alive
+Date: Mon, 12 Sep 2016 18:10:58 GMT
+Pragma: no-cache
+Content-Length: 339
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Age: 0
+Server: Microsoft-IIS/7.5
+Vary: Accept-Encoding
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+2016-09-12T18:15:29Z Sending request...
+2016-09-12T18:15:29Z HEAD /setup-owncloud.php.txt
+2016-09-12T18:19:32Z Sending request...
+2016-09-12T18:19:32Z HEAD /setup-owncloud.php.txt
+2016-09-12T18:30:04Z Sending request...
+2016-09-12T18:30:04Z HEAD /setup-owncloud.php
+2016-09-12T18:31:02Z Sending request...
+2016-09-12T18:31:02Z PROPFIND /
+2016-09-12T18:32:47Z Sending request...
+2016-09-12T18:32:47Z HEAD /setup-owncloud.php

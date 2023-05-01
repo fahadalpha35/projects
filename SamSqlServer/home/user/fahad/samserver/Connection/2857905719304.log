@@ -1,0 +1,30 @@
+2016-09-12T21:03:05Z Resolving host name "31.170.160.100"
+2016-09-12T21:03:05Z Connecting to 31.170.160.100 Port: 21
+2016-09-12T21:03:06Z Connected to 31.170.160.100.
+2016-09-12T21:03:06Z 220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 136 of 500 allowed.
+220-Local time is now 17:03. Server port: 21.
+220-This is a private system - No anonymous login
+220 You will be disconnected after 3 minutes of inactivity.
+2016-09-12T21:03:06Z USER a5568466
+2016-09-12T21:03:06Z 331 User a5568466 OK. Password required
+2016-09-12T21:03:06Z PASS (hidden)
+2016-09-12T21:03:10Z 530 Login authentication failed
+2016-09-12T21:03:10Z Client closed the connection.
+2016-09-12T21:03:10Z User authentication failed.
+2016-09-12T21:22:33Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T21:22:33Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:22:54Z Client closed the connection.
+2016-09-12T21:22:54Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:27:05Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T21:27:05Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:27:26Z Client closed the connection.
+2016-09-12T21:27:26Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:27:45Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T21:27:45Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:28:06Z Client closed the connection.
+2016-09-12T21:28:06Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2016-09-12T21:34:21Z Resolving host name "samsqlserver.xyz"
+2016-09-12T21:34:21Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T21:34:42Z Client closed the connection.
+2016-09-12T21:34:42Z A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.

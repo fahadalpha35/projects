@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "samonline-project",
+  "private_key_id": "06864397e2ab18f1cc4db0f208e2c47746b76a9f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKEqxQJt5weHvp\nSfVDcSyzDusBek6pJWBq/muqfhIbqxDJHLWJT1+xnJmJ8bmoOPGUCz/YVm28Rw+0\nv8KrEZH/yuo7VUDLdQ4L4nq4bsmARKD4e2sr5baSOi1VUSiFrVq4naOGwBmWPA5G\nwHXfKhMdiw2WI2f8iCv+fD04lelbglHnRHg3pKfwbk2vXvNueDGlPU8UEqp7gZiC\ns7mTmiMG1Y3Vbs9m4RcsvpMynNOVxr7j4V6CrqGr8K80wXRAs+vMVbJi7forWR+G\nuZr7tdwKj0IOdyUdwX0FOjVYYknarlkPscIijFa8tTFZr3facClAX2Wj+7H7BIpU\n/vhdR5w9AgMBAAECggEABe1dn+LpUWk8po95zJGhmwWhVQ4ZB+hwbJMBO3iuiqCO\nQdKVbJf8buxGAKrWJEi5+qVd07hX8wGD72xUhx9hJfH2GZQa7hzaiEoLXs+Ob4m+\neFYTwwTeQb8dHKHgdhNV/uZOKUyx3htC2/EXRAWAQV9BIG9HbzvbS9VUbQ17USjI\nW16AeHO+T11cpNx4gyQSEopC2zwksg4H7PiDkb5M48ZTJVi/+IIiLUq55G82YfXS\nHAg9IGS4DJHJ/TSMBK4ZiRlZHCig696jS92bXIjMTugdigh2+lZBmrJMQsHA6mNu\nRSFF9q2+uS8DBf7xyom/CtzgdEE5P4KhkDMAMn3Q7QKBgQD6WNQVTiu+ZQkvSLf7\n0sBkLtPpnrMGcDJkAsZ5tqpYevpWhRK7ip7SifnOyxO8pUxw0bm9xRRlGm4OBnmZ\nCVZdeDCvdH1me9CWkrJoQkFpIqzc+1bdAyf31ZpOuxNfsOMmo+a7dlrrqQzEYIIl\nGxErg8phq9Xlc+lDLI/iq1rsZwKBgQDOosnmIu31Eldmo5XIYlUMuflYpwCQy/TI\nw4Ty2wuViLhsq69P14oiQ+tGDDXWX2Hs4BSQMARy0c8sWINxZ0qd7XwfRhn12wGF\nd9YdzDX3zk2r8lIs1IUyfioYGkP+bklbGMyclfKkFWymA5zzBZHUarFAAxxSORWK\nstARz9eLuwKBgDuNgfYHgHRsSIENBWdMPSQX16VNcTzo17PezSQLBf7CUmbehRRD\n54Ah/mDpAirwD30PBuZTyYQ7g06mz6pOBFN70ekLBwGoFnibMQGIMVM3QnPW/lTY\n+VsFXw23huZOh9qbRrn1b697qWPVqV/2TmFRmoUdgWZx6l1mblv3c0ulAoGBAICd\nor20EBjyiaRBPgGz8uww9ZrQl/GIgZxU1nOzE8rHhsNdOYmgx0H8tHytLPV5+SHP\nd/0nZh1xqloX3fjAKhmSsCdnItF8t72zkXqKmSzdJEtaUPvGbAG5tcm6z4eWbeJd\n1T3Bt32aOD49EXvSg6qLnjgRt5cWIOpr0kbD743xAoGBAJsWxZvJIT8gDEz3aZ0E\ndrdkK/0Cz9Hrj6qrp7thAZv9IBC/inOr1rXOYLDRff6txGV7BbmWXlMmw7b2LiMH\ntaArbGPOdK6/OtxyC2MfCAcMUVvr5tFEeo9y9MH2COAJUBG9ZvCmURssMi3edWVJ\nFi+gS39Nd1ZYDQdNpT2uf0Q8\n-----END PRIVATE KEY-----\n",
+  "client_email": "sam-speech-recognition-program@samonline-project.iam.gserviceaccount.com",
+  "client_id": "108939044454095917880",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sam-speech-recognition-program%40samonline-project.iam.gserviceaccount.com"
+}

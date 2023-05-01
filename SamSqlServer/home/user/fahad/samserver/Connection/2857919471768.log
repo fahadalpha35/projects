@@ -1,0 +1,5 @@
+2016-09-12T22:28:50Z Resolving host name "ftp.samsqlserver.xyz"
+2016-09-12T22:28:50Z Proxy: Resolving host name ftp.samsqlserver.xyz
+2016-09-12T22:28:50Z Connecting to 50.63.202.36 Port: 21
+2016-09-12T22:28:50Z Proxy: Connecting to HTTP proxy server ftp.samsqlserver.xyz Port: 21
+2016-09-12T22:28:50Z Proxy: Connecting to HTTP proxy server ftp.samsqlserver.xyz Port: 21

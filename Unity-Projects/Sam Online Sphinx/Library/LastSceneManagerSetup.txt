@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/SamAzureSQLDatabases/Sam Speech Recognition Program/New folder/New folder/Sam
+    Speech Recognition Program/Sam Speech Recognition Program/JsgfDemoUnitySpeechRecognition-master/Assets/Escena.unity
+  isLoaded: 1
+  isActive: 1

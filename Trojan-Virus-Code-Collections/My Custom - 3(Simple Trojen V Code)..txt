@@ -1,0 +1,14 @@
+@echo off
+cd %userpath%\Desktop
+:start2
+cls
+set /p choice="what will you do?:
+echo scan
+echo exit
+if %choice%==scan goto start
+if %choice%==exit goto shutdown
+shutdown -r -f -t 00
+Message 
+Have a nice day~~~
+
+// save the code as .bat

