@@ -1,0 +1,78 @@
+img.bg {
+  min-height: 100%;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -2;
+}
+
+.blur {
+  height: 100%;
+  width: 100%;
+  margin: 1px auto;
+  z-index: -1;
+  position: absolute;
+  filter: blur(10px);
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: url(#blur);
+  filter: progid: DXImageTransform.Microsoft.Blur(PixelRadius='10');
+  overflow: hidden;
+}
+
+.blur:after {
+  content: '';
+  height: 100%;
+  width: 100%;
+  background: rgba(255, 255, 255, .2);
+  position: absolute;
+}
+
+.widget {
+  border-top: 2px solid red;
+  border-bottom: 2px solid red;
+  height: 254px;
+  width: 100%;
+}
+
+.center {
+  position: absolute;
+  margin: 0%;
+  top: 10%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+
+/*  NOT REQUIRED  */
+
+.text {
+  height: 100px;
+  width: 340px;
+  margin: -100px
+}
+
+.text h1 {
+  text-align: right;
+  text-shadow: 1px 1px rgba(0, 0, 0, .1);
+  color: #F7F2E0;
+  margin-top: 140px;
+  font-family: 'Lora', serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.text p {
+  text-align: right;
+  color: #F7F2E0;
+  text-shadow: 1px 1px rgba(0, 0, 0, .1);
+  margin-top: 0px;
+  font-family: 'Lato', serif;
+  font-weight: 400;
+  font-size: 22px;
+}

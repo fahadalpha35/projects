@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ECEEE1;
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+.container .cta {
+  background: url(background.jpg) 50% 50%;
+  width: 100%;
+}
+.container .cta .vision {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+.container .cta .vision h1 {
+  font-size: 1.2em;
+  line-height: 2em;
+  color: #ECEEE1;
+}
+.container .cta .vision h1 span {
+  font-family: 'Courgette', cursive;
+  font-size: 1.5em;
+}
+.container .cta .connect {
+  width: 85%;
+  text-align: center;
+  margin: 2em auto;
+}
+.container .cta .connect .twitter a {
+  color: #221E1F;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+.container .cta .connect .email {
+  color: #221E1F;
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+.container .schedule p {
+  text-align: center;
+  background-color: #ff471a;
+  color: #ECEEE1;
+  padding: .5em 0em;
+}
+.container .schedule p a {
+  text-decoration: none;
+  color: #221E1F;
+}
+.container ul.feb {
+  background-color: #221E1F;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  border-radius: 14px;
+  width: 80%;
+  margin: 30px auto;
+}
+.container ul.feb li {
+  color: #ECEEE1;
+  list-style-type: none;
+}
+.container ul.feb li.datetitle {
+  text-align: center;
+  font-size: 2em;
+  line-height: 2em;
+}
+.container ul.feb li.date {
+  padding: 1em;
+}
+.container ul.feb li.date span {
+  font-weight: bold;
+  padding-right: 2em;
+}
+.container ul.feb li:nth-child(even) {
+  background-color: #ff471a;
+}
