@@ -1,0 +1,75 @@
+body {
+  background: #CFF5FF;
+}
+
+#heading{
+    background-color: #004658;
+    max-width: 99%;
+}
+
+.animal-article-heading{
+    font-family: 'Rubik Wet Paint', cursive;
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;	
+}
+
+#author {
+	text-align: left;	
+}
+
+h3{
+    text-align: center;
+    font-family: 'Rubik Wet Paint', cursive;
+    font-weight: 400;
+    color: #FF8700;
+}
+
+.animaltiger{
+    margin-bottom: 20px;
+    border-radius: 300px;
+    width: 200px;
+}
+.animaltiger:hover{
+    transform: scale(1.2);
+    transition: ease-in-out 0.5s;
+}
+
+#article{
+   width: 65%;
+   background-color: #35D6FF;
+   padding: 30px;
+   border: 2px solid crimson;
+   border-radius: 10px;
+}
+#submit{
+    text-align: center;
+}
+
+span{
+    color: #FF8700;
+    font-weight: 700;
+}
+.article-desc{
+    text-align: justify;
+    width: 100%;
+    font-size: 20px;
+    color: black;
+}
+
+.button{
+    margin-top: 20px;
+    background-color: #004658;
+    border: none;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 600;
+}
+.button:hover{
+    background-color: #FF8700;
+    transition: 0.5s;
+}
