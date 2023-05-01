@@ -1,0 +1,11 @@
+.alignment {
+	max-width: 70%;
+}
+
+.managed {
+	max-width: 70%;
+}
+
+@media (max-width: 650px) {
+
+}

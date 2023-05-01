@@ -1,0 +1,60 @@
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEditor.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.xml
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEditor.xml
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\OEI\Documents\jsgf_unity_comandos\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\OEI\Documents\jsgf_unity_comandos\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\OEI\Documents\jsgf_unity_comandos\obj\Debug\Assembly-CSharp.dll
+C:\Users\OEI\Documents\jsgf_unity_comandos\obj\Debug\Assembly-CSharp.pdb
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\Assembly-CSharp.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEditor.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.UI.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.VR.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\Mono.Cecil.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\Unity.DataContract.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\Unity.CecilTools.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.xml
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEditor.xml
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.Advertisements.xml
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.UI.xml
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.Purchasing.xml
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\Temp\bin\Debug\UnityEngine.VR.xml
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\obj\Debug\Assembly-CSharp.dll
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\JsgfDemoUnitySpeechRecognition-master\obj\Debug\Assembly-CSharp.pdb

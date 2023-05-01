@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Digits Grammar file
+ */
+
+grammar digits;
+
+public <miscellaneous> = (quit);
+
+public <basicCmd> = /1/ move <direction>  <numbers> meters| /1e-10/ exit;
+ 
+<direction> = (up | down);
+
+<numbers> = (one | two | three | four);

@@ -1,0 +1,28 @@
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\Sam Music Player.exe.config
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\Sam Music Player.exe
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\Sam Music Player.pdb
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\Interop.WMPLib.dll
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\AxInterop.WMPLib.dll
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.csprojResolveAssemblyReference.cache
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Interop.WMPLib.dll
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\AxInterop.WMPLib.dll
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.csproj.ResolveComReference.cache
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam_Music_Player.Form1.resources
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam_Music_Player.Properties.Resources.resources
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.csproj.GenerateResource.Cache
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.exe
+F:\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.pdb
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\Sam Music Player.exe.config
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.csproj.ResolveComReference.cache
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.exe
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.pdb
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\Sam Music Player.exe
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\Sam Music Player.pdb
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.csprojResolveAssemblyReference.cache
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam_Music_Player.Form1.resources
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam_Music_Player.Properties.Resources.resources
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Music Player Program\Sam Music Player\Sam Music Player\obj\Debug\Sam Music Player.csproj.GenerateResource.Cache

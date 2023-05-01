@@ -1,0 +1,18 @@
+F:\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\bin\Debug\Sam Web Browser.exe.config
+F:\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\bin\Debug\Sam Web Browser.exe
+F:\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\bin\Debug\Sam Web Browser.pdb
+F:\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam Web Browser.csprojResolveAssemblyReference.cache
+F:\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam_Web_Browser.Form1.resources
+F:\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam_Web_Browser.Properties.Resources.resources
+F:\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam Web Browser.csproj.GenerateResource.Cache
+F:\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam Web Browser.exe
+F:\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam Web Browser.pdb
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\bin\Debug\Sam Web Browser.exe.config
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam Web Browser.exe
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam Web Browser.pdb
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\bin\Debug\Sam Web Browser.exe
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\bin\Debug\Sam Web Browser.pdb
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam Web Browser.csprojResolveAssemblyReference.cache
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam_Web_Browser.Form1.resources
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam_Web_Browser.Properties.Resources.resources
+C:\Users\fahad\Desktop\SamAzureSQLDatabases\Sam Web Browser Program\Sam Web Browser\Sam Web Browser\obj\Debug\Sam Web Browser.csproj.GenerateResource.Cache

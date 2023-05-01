@@ -1,0 +1,72 @@
+body {
+  font-family: 'Helvetica';
+  background-color: #ffffff;
+}
+
+.filter-buttons {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.list-view-button,
+.grid-view-button {
+  color: white;
+  border: 1px solid white;
+  padding: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.list-view-button:hover,
+.grid-view-button:hover {
+  background: white;
+  color: #0e2439;
+}
+
+.list-view-button {
+  margin-right: 10px;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  max-width: 70%;
+}
+
+@media (max-width: 991px) {
+  .list {
+    max-width: 90%;
+  }
+}
+
+.listview li {
+  background-color: #004658;
+  color: white;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  transition: 0.3s;
+  text-align: left;
+}
+
+
+.list.list-view-filter {
+  flex-direction: column;
+}
+
+.list.list-view-filter li {
+  padding: 10px;
+}
+
+.list.grid-view-filter {
+  flex-flow: row wrap;
+}
+
+.list.grid-view-filter li {
+  width: calc(50% - 210px);
+  padding: 100px;
+  margin-right: 10px;
+  text-align: center;
+}

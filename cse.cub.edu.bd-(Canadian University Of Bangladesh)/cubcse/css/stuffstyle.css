@@ -1,0 +1,60 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #fff;
+}
+
+h1 {
+  color: #004658;
+  font-weight: 500;
+  text-align: center;
+  font-size: 44px;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 991px) {
+  .container {
+    max-width:100%;
+  }
+  .container h1{
+    max-width:100%;
+  }
+}
+
+.members {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+   padding: 70px 0;
+  border: 3px solid #001726;
+  text-align: center;
+}
+
+.member {
+  text-align: center;
+  flex-basis: 33%;
+  padding: 24px;
+  box-sizing: border-box;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.member-name {
+  margin: 0;
+  margin-top: 12px;
+  font-weight: 600;
+  font-size: 24px;
+  color: #007765;
+}
+
+.member-role {
+  font-style: italic;
+  font-size: 18px;
+}

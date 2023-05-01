@@ -1,0 +1,86 @@
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.exe
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.pdb
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.Properties.Resources.resources
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.csproj.GenerateResource.Cache
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.exe
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.pdb
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmCommand.resources
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\Twitterizer.Framework.dll
+C:\Users\Dark\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.exe
+C:\Users\Dark\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.pdb
+C:\Users\Dark\Desktop\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.exe
+C:\Users\Dark\Desktop\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.pdb
+C:\Users\Dark\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dark\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmCommand.resources
+C:\Users\Dark\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.Properties.Resources.resources
+C:\Users\Dark\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.csproj.GenerateResource.Cache
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmAvailableCommands.resources
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.exe
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.pdb
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.exe
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\LumiSoft.Net.dll
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\Twitterizer.Framework.dll
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\YahooWeather.dll
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ResolveAssemblyReference.cache
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmCommand.resources
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.Properties.Resources.resources
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmAvailableCommands.resources
+\\COREi735\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.csproj.GenerateResource.Cache
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmSplash.resources
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\Vallelunga.HomeAutomation.dll
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.exe
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.pdb
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmCommand.resources
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.Properties.Resources.resources
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmAvailableCommands.resources
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmSplash.resources
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.csproj.GenerateResource.Cache
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.exe
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.pdb
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\LumiSoft.Net.dll
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\Twitterizer.Framework.dll
+C:\Users\Michael Archambault\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\Vallelunga.HomeAutomation.dll
+C:\Users\Marcham89\Documents\Visual Studio 2008\Projects\ProjectORIS\ProjectORIS\bin\Debug\LumiSoft.Net.dll
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.exe
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.pdb
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.exe
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.pdb
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmCommand.resources
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.Properties.Resources.resources
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmAvailableCommands.resources
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmSplash.resources
+C:\Users\Darkl\Desktop\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.csproj.GenerateResource.Cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\VISUAL STUDIO\Projects\ORIS with complete RSS functionality\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\VISUAL STUDIO\Projects\ORIS with complete RSS functionality\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\VISUAL STUDIO\Projects\ORIS with complete RSS functionality\ProjectORIS\ProjectORIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\VISUAL STUDIO\Projects\ORIS with complete RSS functionality\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmCommand.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\VISUAL STUDIO\Projects\ORIS with complete RSS functionality\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.Properties.Resources.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\VISUAL STUDIO\Projects\ORIS with complete RSS functionality\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmAvailableCommands.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\VISUAL STUDIO\Projects\ORIS with complete RSS functionality\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmSplash.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\VISUAL STUDIO\Projects\ORIS with complete RSS functionality\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.csproj.GenerateResource.Cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\bin\Debug\ProjectORIS.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmCommand.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.Properties.Resources.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmAvailableCommands.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.frmSplash.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.csproj.GenerateResource.Cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ProjectORIS\ProjectORIS\obj\Debug\ProjectORIS.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\obj\Debug\ProjectORIS.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\obj\Debug\ProjectORIS.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\bin\Debug\ProjectORIS.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\bin\Debug\ProjectORIS.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\obj\Debug\ProjectORIS.frmCommand.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\obj\Debug\ProjectORIS.Properties.Resources.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\obj\Debug\ProjectORIS.frmAvailableCommands.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\obj\Debug\ProjectORIS.frmSplash.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\obj\Debug\ResGen.read.1.tlog
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\ORIGINAL ORIS\ProjectORIS\obj\Debug\ResGen.write.1.tlog

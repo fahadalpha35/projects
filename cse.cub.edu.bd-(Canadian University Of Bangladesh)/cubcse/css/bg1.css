@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+	
+}
+
+body {
+	background-color: rgba(0, 181, 38, 0.1);
+}
+
+.bg-contain {
+	max-width: 100%;
+	background-image: url("../gallery/4.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+
+.opacity p{
+  position: relative;
+  top: 0%;
+  left: 0%;
+  height: 100%;
+}
+.text-opacity-bg{
+  background: rgba(0,0,0,.8) !important;
+  color: #fff !important;
+  padding: 30px ;
+  width: 100%;
+  margin-right: 100px;
+}
+
+.button1 {background-color: rgba(0, 181, 38, 0.3);
+
+
+} /* Green */

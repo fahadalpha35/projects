@@ -1,0 +1,142 @@
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\bin\Debug\DATABASING.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\bin\Debug\DATABASING.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\DATABASING.Properties.Resources.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\DATABASING.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\DATABASING.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\bin\Debug\VR.accdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\bin\Debug\DATABASING.exe.config
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\DATABASING.Form2.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\DATABASING.Form1.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\DATABASING.frmSplash.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING\DATABASING\obj\x86\Debug\DATABASING.Form3.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe.config
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form1.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form2.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form3.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Properties.Resources.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.frmSplash.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\bin\Debug\VR.accdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\bin\Debug\DATABASING.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe.config
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\bin\Debug\VR.accdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\bin\Debug\DATABASING.pdb
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form1.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form2.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form3.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Properties.Resources.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.frmSplash.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.csproj.ResolveComReference.cache
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form4.resources
+C:\Users\Matthew Mansfield\Documents\Voice Recognition\JARVIS\ORIS NARAUK GROUP\SHOWTIME\Matt\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.MainForm.resources
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe.config
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.exe
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.pdb
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form1.resources
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form2.resources
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form3.resources
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form4.resources
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.MainForm.resources
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Properties.Resources.resources
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.frmSplash.resources
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\bin\Debug\VR.accdb
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe
+C:\Documents and Settings\Owner\My Documents\DATABASING current version\DATABASING\bin\Debug\DATABASING.pdb
+C:\VR\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe.config
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.exe
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.pdb
+C:\VR\DATABASING current version\DATABASING\bin\Debug\VR.accdb
+C:\VR\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe
+C:\VR\DATABASING current version\DATABASING\bin\Debug\DATABASING.pdb
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.csproj.ResolveComReference.cache
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form1.resources
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form2.resources
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form3.resources
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form4.resources
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.MainForm.resources
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Properties.Resources.resources
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.frmSplash.resources
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\VR\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe.config
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.csproj.ResolveComReference.cache
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.exe
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.pdb
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\VR.accdb
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.pdb
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form1.resources
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form2.resources
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form3.resources
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form4.resources
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.MainForm.resources
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Properties.Resources.resources
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.frmSplash.resources
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WILSON\VR_MAIN_female\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe.config
+E:\WILSON\VR_MAIN_female\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.csproj.ResolveComReference.cache
+E:\WILSON\VR_MAIN_female\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.exe
+E:\WILSON\VR_MAIN_female\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.pdb
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe.config
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.csproj.ResolveComReference.cache
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.exe
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.pdb
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form1.resources
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form2.resources
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form3.resources
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form4.resources
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.MainForm.resources
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Properties.Resources.resources
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.frmSplash.resources
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\VR.accdb
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe
+E:\WILSON\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.pdb
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe.config
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.csproj.ResolveComReference.cache
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.exe
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.pdb
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form1.resources
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Form4.resources
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\DATABASING.Properties.Resources.resources
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\VR.accdb
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.exe
+D:\VR_MAIN\VR1\DATABASING current version\DATABASING\bin\Debug\DATABASING.pdb
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\bin\Debug\DATABASING.exe.config
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\obj\x86\Debug\DATABASING.csproj.ResolveComReference.cache
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\obj\x86\Debug\DATABASING.exe
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\obj\x86\Debug\DATABASING.pdb
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\obj\x86\Debug\DATABASING.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\obj\x86\Debug\DATABASING.Form1.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\obj\x86\Debug\DATABASING.Form4.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\obj\x86\Debug\DATABASING.Properties.Resources.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\obj\x86\Debug\DATABASING.csproj.GenerateResource.Cache
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\bin\Debug\VR.accdb
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\bin\Debug\DATABASING.exe
+C:\Users\Matthew Mansfield\Local Settings\Documents\VR Tutorial\DATABASING\bin\Debug\DATABASING.pdb

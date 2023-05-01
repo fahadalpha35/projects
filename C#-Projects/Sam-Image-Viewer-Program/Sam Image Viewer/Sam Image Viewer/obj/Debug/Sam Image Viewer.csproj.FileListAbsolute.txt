@@ -1,0 +1,10 @@
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\bin\Debug\Sam Image Viewer.exe.config
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\obj\Debug\Sam Image Viewer.csprojResolveAssemblyReference.cache
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\obj\Debug\Sam_Image_Viewer.Form1.resources
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\obj\Debug\Sam_Image_Viewer.frmViewer.resources
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\obj\Debug\Sam_Image_Viewer.Properties.Resources.resources
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\obj\Debug\Sam Image Viewer.csproj.GenerateResource.Cache
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\bin\Debug\Sam Image Viewer.exe
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\bin\Debug\Sam Image Viewer.pdb
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\obj\Debug\Sam Image Viewer.exe
+F:\SamAzureSQLDatabases\Sam Image Viewer Program\Sam Image Viewer\Sam Image Viewer\obj\Debug\Sam Image Viewer.pdb

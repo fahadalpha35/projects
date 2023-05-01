@@ -1,0 +1,30 @@
+F:\SamAzureSQLDatabases\Sam Speech Recognition Program\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\Sam Speech Recognition Program.exe.config
+F:\SamAzureSQLDatabases\Sam Speech Recognition Program\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\Sam Speech Recognition Program.exe
+F:\SamAzureSQLDatabases\Sam Speech Recognition Program\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\Sam Speech Recognition Program.pdb
+F:\SamAzureSQLDatabases\Sam Speech Recognition Program\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.csprojResolveAssemblyReference.cache
+F:\SamAzureSQLDatabases\Sam Speech Recognition Program\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam_Speech_Recognition_Program.Form1.resources
+F:\SamAzureSQLDatabases\Sam Speech Recognition Program\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam_Speech_Recognition_Program.Properties.Resources.resources
+F:\SamAzureSQLDatabases\Sam Speech Recognition Program\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.csproj.GenerateResource.Cache
+F:\SamAzureSQLDatabases\Sam Speech Recognition Program\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.exe
+F:\SamAzureSQLDatabases\Sam Speech Recognition Program\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.pdb
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\Sam Speech Recognition Program.exe.config
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\Sam Speech Recognition Program.exe
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\Sam Speech Recognition Program.pdb
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.csprojResolveAssemblyReference.cache
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam_Speech_Recognition_Program.Form1.resources
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam_Speech_Recognition_Program.Properties.Resources.resources
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.csproj.GenerateResource.Cache
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.exe
+D:\SamAzureSQLDatabases\Sam Speech Recognition Program\New folder\New folder\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.pdb
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\Sam Speech Recognition Program.exe.config
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\Sam Speech Recognition Program.exe
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\Sam Speech Recognition Program.pdb
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.csprojResolveAssemblyReference.cache
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam_Speech_Recognition_Program.Form1.resources
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam_Speech_Recognition_Program.Properties.Resources.resources
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.csproj.GenerateResource.Cache
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.exe
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.pdb
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\bin\Debug\System.Speech.dll
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Fahad Ahmed\Documents\Sam Speech Recognition Program\Sam Speech Recognition Program\obj\Debug\Sam Speech Recognition Program.csproj.ResolveComReference.cache

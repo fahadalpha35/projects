@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6A14B0C1-4044-3C8E-2CDE-1C8C824B24B1}") = "jsgf_unity_comandos", "Assembly-CSharp.csproj", "{C340B749-2C9A-3883-4512-F00174B793FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C340B749-2C9A-3883-4512-F00174B793FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C340B749-2C9A-3883-4512-F00174B793FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C340B749-2C9A-3883-4512-F00174B793FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C340B749-2C9A-3883-4512-F00174B793FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

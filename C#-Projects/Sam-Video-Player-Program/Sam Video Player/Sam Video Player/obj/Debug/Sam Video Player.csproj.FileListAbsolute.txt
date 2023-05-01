@@ -1,0 +1,14 @@
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\bin\Debug\Sam Video Player.exe.config
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\bin\Debug\Sam Video Player.exe
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\bin\Debug\Sam Video Player.pdb
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\bin\Debug\Interop.WMPLib.dll
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\bin\Debug\AxInterop.WMPLib.dll
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\obj\Debug\Sam Video Player.csprojResolveAssemblyReference.cache
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\obj\Debug\Interop.WMPLib.dll
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\obj\Debug\AxInterop.WMPLib.dll
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\obj\Debug\Sam Video Player.csproj.ResolveComReference.cache
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\obj\Debug\Sam_Video_Player.Form1.resources
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\obj\Debug\Sam_Video_Player.Properties.Resources.resources
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\obj\Debug\Sam Video Player.csproj.GenerateResource.Cache
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\obj\Debug\Sam Video Player.exe
+F:\SamAzureSQLDatabases\Sam Video Player Program\Sam Video Player\Sam Video Player\obj\Debug\Sam Video Player.pdb

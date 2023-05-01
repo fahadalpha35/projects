@@ -1,0 +1,50 @@
+SHOW DATABASES; // To show all the databases.
+CREATE DATABASE DATABASE_NAME; // To create a new database.
+DROP DATABASE DATABASE_NAME; // To delete a database.
+CREATE TABLE TABLE_NAME(
+	ID Int,
+	Name varchar(100),
+	Gender varchar(10),
+	GPA double(3,2),
+	PRIMARY KEY(ID)
+); // To create a new table with column names.
+RENAME TABLE TABLE_NAME TO NEW_TABLE_NAME; // To rename a table.
+DROP TABLE TABLE_NAME; To delete a table.
+INSERT INTO TABLE_NAME(ID,Name,Gender,GPA) VALUES (101, 'Sam', 'Male', 4.00), (102, 'Sam', 'Male', 4.00), (103, 'Sam', 'Male', 4.00); // To insert values into the table.
+ALTER TABLE TABLE_NAME CHANGE OLD_COLUMN_NAME NEW_COLUMN_NAME COLUMN_TYPE; // To rename the column name of a table.
+ALTER TABLE TABLE_NAME ADD NEW_COLUMN_NAME DATA_TYPE; // To insert a new column in a table.
+ALTER TABLE TABLE_NAME DROP COLUMN COLUMN_NAME; // To delete a column from a table.
+ALTER TABLE TABLE_NAME MODIFY COLUMN COLUMN_NAME DATA_TYPE; // To change the data type of a column in a table.
+UPDATE TABLE_NAME SET COLUMN_NAME = "Value" WHERE PRIMARY_COLUMN_NAME = PRIMARY_VALUE; To insert or rename a value in a specific row of a column in a table.
+DELETE FROM TABLE_NAME WHERE PRIMARY_COLUMN_NAME = PRIMARY_VALUE; // To delete an entire record of a specific row of a column in a table.
+SELECT COLUMN_NAME1, COLUMN_NAME2 FROM TABLE_NAME; // To show the records of a specific column in a table.
+SELECT * FROM TABLE_NAME; // To show all the records of a table.
+SELECT * FROM TABLE_NAME LIMIT 2,3; To show the specific number of rows in a table.
+SELECT DISTINCT COLUMN_NAME FROM TABLE_NAME; // To show the multiple distinct values of a column in a table.
+SELECT COLUMN_NAME1, COLUMN_NAME2 FROM TABLE_NAME ORDER BY COLUMN_NAME1; // To sort the values of a particular column by ascending order in a table.
+SELECT COLUMN_NAME1, COLUMN_NAME2 FROM TABLE_NAME ORDER BY COLUMN_NAME1 DESC; // To sort the values of a particular column by descending order in a table.
+SELECT * FROM TABLE_NAME ORDER BY COLUMN_NAME; To sort the values of all the records of a column by ascending order in a table.
+SELECT * FROM TABLE_NAME ORDER BY COLUMN_NAME DESC; To sort the values of all the records of a column by descending order in a table.
+SELECT * FROM TABLE_NAME WHERE COLUMN_NAME1 = "Value1" AND COLUMN_NAME2 = "VALUE2"; To show the specific record of a column that contains only value1 and value2 in a table.
+SELECT * FROM TABLE_NAME WHERE COLUMN_NAME1 = "Value1" OR COLUMN_NAME2 = "VALUE2"; To show the specific record of a column that contains all the values of value1 and value2 in a table.
+SELECT * FROM TABLE_NAME WHERE COLUMN_NAME > Value; To show the values greater than the assigned value of a column in a table.
+SELECT * FROM TABLE_NAME WHERE NOT COLUMN_NAME < Value; To show the values greater than the assigned value of a column in a table.
+SELECT * FROM TABLE_NAME WHERE COLUMN_NAME < Value; To show the values less than the assigned value of a column in a table.
+SELECT * FROM TABLE_NAME WHERE NOT COLUMN_NAME > Value; To show the values less than the assigned value of a column in a table.
+SELECT * FROM TABLE_NAME WHERE COLUMN_NAME != Value; To show the values except the assigned value of a column in a table.
+SELECT * FROM TABLE_NAME WHERE COLUMN_NAME1 = Value1 OR COLUMN_NAME2 = Value2 OR COLUMN_NAME = Value3; To show the specific values of a column in a table.
+SELECT COLUMN_NAME1 AS NEW_COLUMN_NAME1, COLUMN_NAME2 AS NEW_COLUMN_NAME2 FROM TABLE_NAME; // To display a column with new column name in a table.
+SELECT * FROM TABLE_NAME WHERE Column_Name LIKE "%s%"; To show the single character of the values in a column.
+SELECT AVG(Balance) FROM Bank;
+CREATE VIEW View_Hospital AS SELECT Reg_No, Age, Allergy FROM Hospital
+INSERT INTO view_hospital(Reg_No) VALUES (6929);
+DROP VIEW view_hospital;
+SELECT * FROM hospital INNER JOIN doctor;
+SELECT column_name(s) FROM table1 LEFT JOIN table2 ON table1.column_name = table2.column_name;
+SELECT column_name(s) FROM table1 FULL OUTER JOIN table2 ON table1.column_name = table2.column_name WHERE condition;
+SELECT Patient_Name FROM hospital UNION SELECT Doctor_Name FROM doctor order by Patient_Name;
+SELECT DAYNAME("2039-12-19");
+SELECT GETDATE();
+SELECT DATEADD();
+SELECT MAKEDATE();
+To optimize database experience
