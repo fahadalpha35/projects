@@ -1,7 +1,7 @@
 # Online-RC-Drone-Kits-Shop
 Programming for mobile devices lab Project
 
-# Md Ziaur Reza Joy
+# Fahad Ahmed
 
 
 FULL FLUTTER ECOMMERCE PROJECT IN MVC PATTERN
